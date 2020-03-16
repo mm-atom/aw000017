@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/aw000017",
-	"version": "1.0.0",
+	"version": "1.0.202003161031",
 	"description": "获取当前页面完整路径",
 	"scripts": {
 		"test": "npm run build && karma start --single-run",
